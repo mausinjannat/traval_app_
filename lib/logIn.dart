@@ -11,7 +11,7 @@ class logIn extends StatelessWidget {
         children: [
           // Background Image
           Image.asset(
-            'assets/images/login.jpg',
+            'assets/images/image2.jpg',
             fit: BoxFit.cover,
           ),
 
